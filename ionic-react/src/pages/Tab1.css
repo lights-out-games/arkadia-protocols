@@ -1,0 +1,13 @@
+.carouselCard {
+    height: 100%;
+    background-color: beige;
+}
+
+.frameCarousel {
+    height: 100%;
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
